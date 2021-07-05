@@ -144,7 +144,7 @@ header .container-fluid
 
 .story .container-fluid
 {
-    background-image: url('https://unsplash.com/photos/QckxruozjRg');
+    background-image: url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -162,7 +162,7 @@ header .container-fluid
       rgba(33, 37, 43, 0.6)
     ),
 
-    url(https://unsplash.com/photos/QckxruozjRg);
+    url(https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80);
 }
 
 .prefooter h1,
