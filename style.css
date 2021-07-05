@@ -65,7 +65,7 @@ header .container-fluid
 .hamburger:hover
 {
   color: #FFF;
-  cursor: pointer;
+  cursor: crosshair;
 }
 
 
